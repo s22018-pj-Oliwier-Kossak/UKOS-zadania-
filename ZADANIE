@@ -1,0 +1,27 @@
+1 Uruchamiam terminal LXterminal 
+
+2 Do wyświetlenia zawartosci katalogu uzywam polecenia ls.
+
+3 Używam polecenia pwd w celu zobaczenia miejsca, w którym sie znajduję.
+
+4 Poleceniem cd Desktop przechdozę do pulpitu.
+
+5 Ponownie używam polecenia pwd. Akualna scieżka /home/ubuntu/Desktop
+
+6 Poleceniem ls sprawdzam zawartosć katalogu. adding-packages-permanently-info.txt  passwords-info.txt
+
+7 Po wyklikaniu otrzymamy to samo.
+
+8 Uzywam komendy ls /home/ubunt
+
+9 Przejdź do katalogu pictures za pomoca scieżki względnej cd ../Picture
+
+10 Sprawdź gdzie jestes. /home/ubuntu/Pictures
+
+11 Wpisałem cd ././././././ ale nic sie nie zmieniło :/.
+
+12 Użyłem cd /home/ubuntu zeby przejść do katalogu domowego.
+
+13 Po wpisaniu cd /root otrzymałem: bash: cd: /root: Permission denied
+
+14 Ctrl+Alt+F4 przechodzę do terminala tekstowego 
