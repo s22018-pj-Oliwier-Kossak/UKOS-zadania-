@@ -1,0 +1,20 @@
+
+Utworzyłem kilka katalogów i  katalogów i nadałem im różne prawa dostępu.
+ Za pomocą polecenia chmod 000 usuwam wszystkie prawa dostępu.
+ Po użyciu polecenia chmod u=rw kat1 straciłem możliwość wejścia do katalogu nadrzędnego jak i znajdującego sie w nim katalogu podrzędnego.
+Przy użyciu polecenia echo treść_komunikatu>plik tworzymy plik o zawartosci tekstowej "treść_komunikatu".
+Po ponownym użyciu echo treść_komunikatu>plik  tworzymy nowy tekst usuwając przy tym poprzedni.
+Polecenie  echo treść_komunikatu>>plik sprawia, że dodajemy tekst bez usuwania poprzedniego.
+Otworzyłem drugi terminal i  wpisałem tail -f plik. Na pierwszym terminalu używałem polecenia echo
+na drugim wyświetał się tekst.
+Na serwerze szufaladni utworzyłem katalog public.html a wnim plik storno.html o zawartosci:
+<html>
+<body>
+<H1>to jest moja strona domowa<H1>
+</Body>
+</Html>
+http://szuflandia.pjwstk.edu.pl/~s22018/storna.html otworzyłem swoja stronę domową.
+Po użyciu polecenia chmod 000 straciłem możliwość wjeścia na stronę.
+Po wpisaniu umask otrzymałem wartosć 0002.
+
+
